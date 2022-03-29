@@ -1,0 +1,20 @@
+.chat {
+  list-style: none;
+  text-align: center;
+  margin-right: 30px;
+}
+.textbox {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+}
+.textarea {
+  overflow: hidden;
+  text-align: center;
+  margin: 20px;
+  border-radius: 20px;
+}
+li {
+  font-size: medium;
+}

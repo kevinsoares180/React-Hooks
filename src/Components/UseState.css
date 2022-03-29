@@ -1,0 +1,9 @@
+.slice {
+  text-align: center;
+  border-bottom: 5px solid rgb(53, 53, 53);
+  margin-bottom: 10px;
+  max-width: 100%;
+}
+.item-info {
+  color: green;
+}
